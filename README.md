@@ -1,5 +1,5 @@
 # Fluid-Substitution
-[![HitCount](http://hits.dwyl.com/3D-Seismic-Attribute.svg)](http://hits.dwyl.com/ezygeo-ai/Fluid-Substitution)
+[![HitCount](http://hits.dwyl.com/Fluid-Substitution.svg)](http://hits.dwyl.com/ezygeo-ai/Fluid-Substitution)
 ![GitHub contributors](https://img.shields.io/github/contributors/ezygeo-ai/Fluid-Substitution)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ezygeo-ai/Fluid-Substitution)
 ![GitHub top language](https://img.shields.io/github/languages/top/ezygeo-ai/Fluid-Substitution)
