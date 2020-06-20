@@ -8,8 +8,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ezygeo-ai/Fluid-Substitution)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555)](https://www.linkedin.com/posts/hadyan-pratama-1177b713b_seismic-attribute-3dmodel-activity-6666550290327703552-aZi-)
 
-The pupose of this repo is to reconstruct Fluid-Substitution using **Python** and **Jupyter Notebook IDE**.
-
+The purpose of this repository is to reconstruct Fluid-Substitution using **Python** and **Jupyter Notebook IDE**.
 
 ## Fluid Substitution : Predict P Wave Velocity
 
